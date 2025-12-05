@@ -1,94 +1,67 @@
-<div align="center">
+# 🧑‍💻 Astle Ligo  
+**Full-Stack Developer (MERN)**  
+📍 **India**
 
-# 🌟 Astle Ligo  
-**Full Stack Developer — MERN Stack**  
-**Status:** <img src="https://img.shields.io/badge/Ready%20to%20Work-2ecc71?style=flat-square" />
+---
 
-</div>
+## 💼 Status 
+Full-stack / MERN roles — remote or on-site.
 
 ---
 
 ## 👋 About Me  
-Full Stack Developer turning ideas into reliable and maintainable systems.  
-Based in **India**, I focus on building clean, scalable applications with thoughtful design and purpose-driven engineering.
+Full-stack developer focused on building clean interfaces, efficient APIs, and reliable applications. Strong DSA background with competitive achievements.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Tech Stack  
 
-### 🔹 **Tejas Registration Website — _tejas-website_**
-A registration system built for **Tejas-2025**, handling **700+ registrations** with **3 different user login levels**.  
-🔗 **Repo:** https://github.com/Astle-Ligo/tejas-website
+### **Frontend**
+![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+![GSAP](https://skillicons.dev/icons?i=gsap&theme=dark)
 
----
+### **Backend**
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
 
-### 🔹 **Portfolio Website — _astle-portfolio_**
-A minimal and elegant personal portfolio crafted using React.  
-🔗 **Repo:** https://github.com/Astle-Ligo/astle-portfolio
+### **Languages**
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
 
----
-
-## 🛠️ Tech Stack  
-*Hand-drawn + minimal line-art logos for a clean, creative aesthetic.*
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/react-sketch.png" width="60" /><br>
-      <sub><b>React.js</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/node-line.png" width="60" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/express-line.png" width="60" /><br>
-      <sub><b>Express.js</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/mongo-sketch.png" width="60" /><br>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/js-line.png" width="60" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/git-sketch.png" width="60" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
+### **Tools**
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
 
 ---
 
-## 🌐 Connect With Me  
-<div align="left">
-
-<a href="https://astle-ligo.github.io/astle-portfolio" target="_blank">
-  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/chrome-line.png" width="32" />
-</a>
-
-<a href="https://www.linkedin.com/in/astle-ligo/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/linkedin-line.png" width="32" />
-</a>
-
-<a href="https://www.instagram.com/astle.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/instagram-line.png" width="32" />
-</a>
-
-<a href="https://leetcode.com/u/Astle-Ligo/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/leetcode-line.png" width="32" />
-</a>
-
-<a href="https://github.com/Astle-Ligo" target="_blank">
-  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/github-line.png" width="32" />
-</a>
-
-</div>
+## 🏆 Achievements  
+- 🥇 **20+ National-Level IT Event Wins**  
+- 💡 **350+ LeetCode Problems Solved**
 
 ---
 
-## 🎯 Final Note  
-> _“If you’re reading this, I’m ready to collaborate and build meaningful things.”_
+## 🔗 Connect With Me  
+[![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com/Astle-Ligo)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/astle-ligo/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.icons8.com/color/48/domain.png)](https://astle-ligo.github.io/astle-portfolio)
+&nbsp;&nbsp;
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/astle.dev/)
+&nbsp;&nbsp;
+[![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/u/Astle-Ligo/)
+
+
+
+
+
+
+
 
