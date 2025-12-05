@@ -1,90 +1,94 @@
-# 🌟 Astle Ligo
+<div align="center">
 
-### **Full Stack Developer — MERN Stack**
-Crafting clean interfaces, scalable backend systems, and solving problems one line of code at a time.
+# 🌟 Astle Ligo  
+**Full Stack Developer — MERN Stack**  
+**Status:** <img src="https://img.shields.io/badge/Ready%20to%20Work-2ecc71?style=flat-square" />
+
+</div>
 
 ---
 
-## 👋 Hey there!
-Welcome to my corner of GitHub!  
-I love building fast, minimal, purposeful applications — whether it's event registration systems, personal portfolio sites, or anything that brings ideas to life.
+## 👋 About Me  
+Full Stack Developer turning ideas into reliable and maintainable systems.  
+Based in **India**, I focus on building clean, scalable applications with thoughtful design and purpose-driven engineering.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 **Tejas Registration Website — _tejas-website_**
-📌 A registration system built for **Tejas-2025**, handling **700+ registrations** and featuring **3 different user login levels**.  
+A registration system built for **Tejas-2025**, handling **700+ registrations** with **3 different user login levels**.  
 🔗 **Repo:** https://github.com/Astle-Ligo/tejas-website
 
 ---
 
 ### 🔹 **Portfolio Website — _astle-portfolio_**
-📌 A clean and minimalistic portfolio built with **React**.  
+A minimal and elegant personal portfolio crafted using React.  
 🔗 **Repo:** https://github.com/Astle-Ligo/astle-portfolio
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+*Hand-drawn + minimal line-art logos for a clean, creative aesthetic.*
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/react-sketch.png" width="60" /><br>
       <sub><b>React.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/node-line.png" width="60" /><br>
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/express-line.png" width="60" /><br>
       <sub><b>Express.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/mongo-sketch.png" width="60" /><br>
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/js-line.png" width="60" /><br>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
+      <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/logos/git-sketch.png" width="60" /><br>
       <sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
 
-_Minimal. Clean. Straight to the point._
+---
+
+## 🌐 Connect With Me  
+<div align="left">
+
+<a href="https://astle-ligo.github.io/astle-portfolio" target="_blank">
+  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/chrome-line.png" width="32" />
+</a>
+
+<a href="https://www.linkedin.com/in/astle-ligo/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/linkedin-line.png" width="32" />
+</a>
+
+<a href="https://www.instagram.com/astle.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/instagram-line.png" width="32" />
+</a>
+
+<a href="https://leetcode.com/u/Astle-Ligo/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/leetcode-line.png" width="32" />
+</a>
+
+<a href="https://github.com/Astle-Ligo" target="_blank">
+  <img src="https://raw.githubusercontent.com/Astle-Ligo/assets/main/social/github-line.png" width="32" />
+</a>
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
+## 🎯 Final Note  
+> _“If you’re reading this, I’m ready to collaborate and build meaningful things.”_
 
-<p align="left">
-  <a href="https://astle-ligo.github.io/astle-portfolio" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/astle-ligo/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/astle.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Astle-Ligo/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Astle-Ligo" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="30" />
-  </a>
-</p>
-
----
-
-## 🎯 Fun Little Prompt  
-> _“If you’re reading this, let’s build something cool together.”_
