@@ -17,27 +17,27 @@ Full-stack developer focused on building clean interfaces, efficient APIs, and r
 ## 🚀 Tech Stack  
 
 ### **Frontend**
-<span style="cursor: default;">![HTML5](https://skillicons.dev/icons?i=html&theme=dark)</span>
-<span style="cursor: default;">![CSS3](https://skillicons.dev/icons?i=css&theme=dark)</span>
-<span style="cursor: default;">![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)</span>
-<span style="cursor: default;">![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)</span>
-<span style="cursor: default;">![React](https://skillicons.dev/icons?i=react&theme=dark)</span>
-<span style="cursor: default;">![Vite](https://skillicons.dev/icons?i=vite&theme=dark)</span>
-<span style="cursor: default;">![GSAP](https://skillicons.dev/icons?i=gsap&theme=dark)</span>
+![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS3](https://skillicons.dev/icons?i=css&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+![GSAP](https://skillicons.dev/icons?i=gsap&theme=dark)
 
 ### **Backend**
-<span style="cursor: default;">![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)</span>
-<span style="cursor: default;">![Express](https://skillicons.dev/icons?i=express&theme=dark)</span>
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
 
 ### **Languages**
-<span style="cursor: default;">![Python](https://skillicons.dev/icons?i=python&theme=dark)</span>
-<span style="cursor: default;">![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)</span>
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
 
 ### **Tools**
-<span style="cursor: default;">![Git](https://skillicons.dev/icons?i=git&theme=dark)</span>
-<span style="cursor: default;">![GitHub](https://skillicons.dev/icons?i=github&theme=dark)</span>
-<span style="cursor: default;">![Postman](https://skillicons.dev/icons?i=postman&theme=dark)</span>
-<span style="cursor: default;">![AWS](https://skillicons.dev/icons?i=aws&theme=dark)</span>
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
 
 ---
 
@@ -48,23 +48,12 @@ Full-stack developer focused on building clean interfaces, efficient APIs, and r
 ---
 
 ## 🔗 Connect With Me  
-
-<a href="https://astle-ligo.github.io/astle-portfolio" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/color/48/domain.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/astle-ligo/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="https://www.instagram.com/astle.dev/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
-</a>
-
-<a href="https://github.com/Astle-Ligo" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>
-</a>
-
-<a href="https://leetcode.com/u/Astle-Ligo/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-</a>
+[![Portfolio](https://img.icons8.com/color/48/domain.png)](https://astle-ligo.github.io/astle-portfolio)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/astle-ligo/)
+&nbsp;&nbsp;
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/astle.dev/)
+&nbsp;&nbsp;
+[![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com/Astle-Ligo)
+&nbsp;&nbsp;
+[![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/u/Astle-Ligo/)
