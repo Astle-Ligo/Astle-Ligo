@@ -56,4 +56,4 @@ Full-stack developer focused on building clean interfaces, efficient APIs, and r
 &nbsp;&nbsp;
 [![GitHub](https://img.icons8.com/ios-glyphs/48/ffffff/github.png)](https://github.com/astleligo)
 &nbsp;&nbsp;
-[![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/u/Astle-Ligo/)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png)](https://leetcode.com/u/astleligo/)
